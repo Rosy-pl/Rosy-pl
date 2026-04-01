@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:CDA4DE,100:89CFF0&height=220&section=header&text=Rosalia%20Pav%C3%B3n%20L%C3%B3pez&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9D7BFF,100:FF8FB1&height=220&section=header&text=Rosalia%20Pav%C3%B3n%20L%C3%B3pez&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h1 align="center">Olá, eu sou Rosalia 🌷</h1>
+<h1 align="center">Rosalia Pavón López</h1>
 
 <p align="center">
-  Desenvolvedora Front-End em formação • Em transição de carreira • Construindo meu espaço na tecnologia
+  <strong>Front-End Developer em formação</strong><br>
+  Criando projetos práticos com HTML, CSS e JavaScript enquanto construo minha transição para a tecnologia
 </p>
 
 <p align="center">
@@ -19,7 +20,7 @@
 
 ---
 
-## 💫 Sobre mim
+## ✨ Sobre mim
 
 Sou estudante em transição de carreira para a área de tecnologia, com foco em **Desenvolvimento Front-End**.
 
@@ -32,15 +33,23 @@ Atualmente estou fortalecendo minha base em **HTML, CSS e JavaScript**, criando 
 
 ---
 
-## ✨ Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img alt="HTML" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Git" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="VS Code" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="HTML" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="VS Code" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-Estrutura-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/CSS-Estilo-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-Interatividade-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-Controle%20de%20vers%C3%A3o-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-Portf%C3%B3lio%20e%20repos-black?style=flat-square" />
 </p>
 
 ---
@@ -48,13 +57,13 @@ Atualmente estou fortalecendo minha base em **HTML, CSS e JavaScript**, criando 
 ## 📌 Projetos em destaque
 
 ### 🛒 Lista de Compras com JavaScript
-Projeto interativo para adicionar, editar e remover itens de uma lista de compras.
+Projeto interativo com funcionalidades de adicionar, editar e remover itens, feito para praticar manipulação do DOM e lógica com JavaScript.
 
 - [Repositório](https://github.com/Rosy-pl/lista-de-compras-js)
 - [Projeto online](https://rosy-pl.github.io/lista-de-compras-js/)
 
 ### 🍽️ Restaurant Landing Page
-Landing page de restaurante desenvolvida com foco em estrutura visual, identidade, navegação e responsividade.
+Landing page de restaurante com foco em design, identidade visual, navegação e responsividade.
 
 - [Repositório](https://github.com/Rosy-pl/restaurant-landing-page)
 
@@ -68,18 +77,16 @@ Projeto criado para praticar estruturação com HTML, estilização com CSS e or
 ## 📚 Atualmente estudando
 
 - Estrutura semântica no HTML
-- Posicionamento e responsividade com CSS
+- Responsividade com CSS
 - Manipulação do DOM com JavaScript
 - Organização de projetos para portfólio
 - Boas práticas com Git e GitHub
 
 ---
 
-## 🌸 Um pouco mais sobre mim
+## 🌸 Objetivo profissional
 
-Além de estudar programação, estou construindo meu portfólio com projetos práticos para evoluir cada vez mais como desenvolvedora.
-
-Meu objetivo é conquistar uma oportunidade na área de tecnologia e continuar crescendo profissionalmente com consistência, prática e dedicação.
+Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia como desenvolvedora front-end júnior, continuar evoluindo através de projetos práticos e construir uma base sólida para crescer profissionalmente.
 
 ---
 
@@ -92,5 +99,5 @@ Meu objetivo é conquistar uma oportunidade na área de tecnologia e continuar c
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:CDA4DE,100:89CFF0&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9D7BFF,100:FF8FB1&height=120&section=footer" />
 </p>
