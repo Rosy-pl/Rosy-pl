@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/rosalia-pav%C3%B3n-l%C3%B3pez-331885230/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="pavonlopezrosalia@gmail.com">
+  <a href="mailto:pavonlopezrosalia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
