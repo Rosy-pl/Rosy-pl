@@ -61,7 +61,7 @@ Landing page de restaurante desenvolvida com foco em estrutura visual, identidad
 ### 🏠 Projeto Imobiliária
 Projeto criado para praticar estruturação com HTML, estilização com CSS e organização de layout.
 
-- [https://github.com/Rosy-pl/site-imobiliaria-f4life](#)
+- [https://rosy-pl.github.io/site-imobiliaria-f4life/](#)
 
 ---
 
@@ -72,15 +72,6 @@ Projeto criado para praticar estruturação com HTML, estilização com CSS e or
 - Manipulação do DOM com JavaScript
 - Organização de projetos para portfólio
 - Boas práticas com Git e GitHub
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rosy-pl&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosy-pl&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
 
 ---
 
