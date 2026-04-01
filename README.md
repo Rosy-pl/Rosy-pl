@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=180&section=header&text=Rosy%20PL&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=180&section=header&text=Rosalia%20Pavon&fontSize=38&fontColor=ffffff" />
 </p>
 <h1 align="center">Oi, eu sou Rosy! 🌷</h1>
 
