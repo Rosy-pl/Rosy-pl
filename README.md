@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Front-End Developer em formação</strong><br>
-  Criando projetos práticos com HTML, CSS e JavaScript enquanto construo minha transição para a tecnologia
+   Construindo projetos práticos e fortalecendo minha base em HTML, CSS e JavaScript
 </p>
 
 <p align="center">
