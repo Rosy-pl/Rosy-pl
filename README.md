@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=180&section=header&text=Rosy%20PL&fontSize=38&fontColor=ffffff" />
+</p>
 <h1 align="center">Oi, eu sou Rosy! 🌷</h1>
 
 <p align="center">
@@ -5,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rosalia-pav%C3%B3n-l%C3%B3pez">
+  <a href="https://www.linkedin.com/in/rosalia-pav%C3%B3n-l%C3%B3pez-331885230/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="pavonlopezrosalia@gmail.com">
@@ -78,10 +81,9 @@ Projeto criado para praticar estruturação com HTML, estilização com CSS e or
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rosy-pl&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosy-pl&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rosy-pl&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosy-pl&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
 ---
 
 ## 🌸 Um pouco mais sobre mim
@@ -94,7 +96,7 @@ Meu objetivo é conquistar uma oportunidade na área de tecnologia e continuar c
 ## 🤝 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rosalia-pav%C3%B3n-l%C3%B3pez">
+  <a href="https://www.linkedin.com/in/rosalia-pav%C3%B3n-l%C3%B3pez-331885230/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
