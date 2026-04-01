@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9D7BFF,100:FF8FB1&height=220&section=header&text=%20%C3%%20%C3%&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9D7BFF,100:FF8FB1&height=220&section=header&text=&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h1 align="center">Rosalia Pavón López</h1>
